@@ -79,3 +79,10 @@
     uri: https://github.com/turtlebot/turtlebot_interactions.git
     local-name: turtlebot_interactions
     version: indigo
+
+# depthimage_to_laserscan:
+
+- git:
+    uri: https://github.com/ros-perception/depthimage_to_laserscan.git
+    local-name: depthimage_to_laserscan
+    version: mikaelarguedas-patch-1
