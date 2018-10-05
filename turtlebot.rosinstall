@@ -14,32 +14,32 @@
 - git:
     uri: https://github.com/yujinrobot/kobuki_desktop.git
     local-name: kobuki_desktop
-    version: indigo
+    version: kinetic
 
 - git:
     uri: https://github.com/yujinrobot/yocs_msgs.git
     local-name: yocs_msgs
-    version: indigo
+    version: devel
 
 - git:
     uri: https://github.com/yujinrobot/yujin_ocs.git
     local-name: yujin_ocs
-    version: indigo
+    version: kinetic
 
 - git:
     uri: https://github.com/yujinrobot/kobuki_msgs.git
     local-name: kobuki_msgs
-    version: indigo
+    version: kinetic
 
 - git:
     uri: https://github.com/yujinrobot/kobuki_core.git
     local-name: kobuki_core
-    version: indigo
+    version: kinetic
 
 - git:
     uri: https://github.com/yujinrobot/kobuki.git
     local-name: kobuki
-    version: indigo
+    version: kinetic
 
 # Create stacks
 
@@ -51,7 +51,7 @@
 - git:
     uri: https://github.com/turtlebot/turtlebot_create_desktop.git
     local-name: turtlebot_create_desktop
-    version: indigo
+    version: kinetic
 
 # Turtlebot stacks
 
