@@ -49,9 +49,9 @@
     version: indigo
 
 - git:
-    uri: https://github.com/turtlebot/turtlebot_create_desktop.git
+    uri: https://github.com/NU-MSR/turtlebot_create_desktop.git
     local-name: turtlebot_create_desktop
-    version: kinetic
+    version: melodic
 
 # Turtlebot stacks
 
@@ -61,7 +61,7 @@
     version: indigo
 
 - git:
-    uri: https://github.com/turtlebot/turtlebot.git
+    uri: https://github.com/NU-MSR/turtlebot.git
     local-name: turtlebot
     version: indigo
 
