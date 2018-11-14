@@ -31,10 +31,10 @@
 #    local-name: kobuki_msgs
 #    version: kinetic
         
-#- git:
-#    uri: https://github.com/yujinrobot/kobuki_core.git
-#    local-name: kobuki_core
-#    version: kinetic
+- git:
+    uri: https://github.com/yujinrobot/kobuki_core.git
+    local-name: kobuki_core
+    version: kinetic
 
 - git:
     uri: https://github.com/yujinrobot/kobuki.git
